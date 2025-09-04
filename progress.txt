@@ -15,3 +15,4 @@
 15. Switching back to main via git checkout
 16. Merging the feature1 branch to the main branch so the changes are reflected in main
 17. Deleting feature1 branch via git branch -d
+18. Creating new remote branch called test-branch and pushing it
