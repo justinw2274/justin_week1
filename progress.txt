@@ -17,3 +17,4 @@
 17. Deleting feature1 branch via git branch -d
 18. Creating new remote branch called test-branch and pushing it
 19. Viewing all branches via git branch -a (I see main and test-branch)
+20. Checking status of working directory via git status (my branch is up to date)
