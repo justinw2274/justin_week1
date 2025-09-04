@@ -9,4 +9,6 @@
 9. Added remote origin to my repo
 10. Pushed changes to main via git push (editing this part directly on GitHub)
 11. Pulled the new progress file changes onto my local machine via git pull
-12. 
+12. Made a new feature1 branch via git branch
+13. Switching to that new branch via git checkout
+14. Made change to app.py in vscode and pushed to GitHub
