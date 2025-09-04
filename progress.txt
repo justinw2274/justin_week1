@@ -7,3 +7,4 @@
 7. Added the changes to the staging area
 8. Committed the changes with a message
 9. Added remote origin to my repo
+10. Pushed changes to main via git push (editing this part directly on GitHub)
