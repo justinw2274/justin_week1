@@ -4,3 +4,6 @@
 4. Created the progress text file via the touch command
 5. Initialized the repository in my folder via git init
 6. Created the app python file via the provided command
+7. Added the changes to the staging area
+8. Committed the changes with a message
+9. Added remote origin to my repo
