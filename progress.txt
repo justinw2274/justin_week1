@@ -14,3 +14,4 @@
 14. Made change to app.py in vscode and pushed to GitHub
 15. Switching back to main via git checkout
 16. Merging the feature1 branch to the main branch so the changes are reflected in main
+17. Deleting feature1 branch via git branch -d
