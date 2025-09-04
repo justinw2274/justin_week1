@@ -16,3 +16,4 @@
 16. Merging the feature1 branch to the main branch so the changes are reflected in main
 17. Deleting feature1 branch via git branch -d
 18. Creating new remote branch called test-branch and pushing it
+19. Viewing all branches via git branch -a (I see main and test-branch)
