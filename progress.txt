@@ -21,3 +21,9 @@
 21. Viewing last commits via git log (can see all of the commits I have made previously and their messages)
 22. Checking the remote url that we are using to make sure it is correct (it is)
 23. Checked out the git help branch page (contains documentation on different git flags/commands). Exited the page with the q key
+24. Adding a .gitignore file with the following content: 
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+Added the file via the touch command and opened and edited the file via the nano command.
+25. Adding the .gitignore file and pushing it
