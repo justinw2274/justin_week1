@@ -27,3 +27,5 @@
 __pycache__/
 Added the file via the touch command and opened and edited the file via the nano command.
 25. Adding the .gitignore file and pushing it
+26. Took a screenshot of the Network graph on Github and added it to my practice folder and named the screenshot network-graph.png
+27. Completing my final commit and push now
