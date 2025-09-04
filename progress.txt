@@ -19,3 +19,4 @@
 19. Viewing all branches via git branch -a (I see main and test-branch)
 20. Checking status of working directory via git status (my branch is up to date)
 21. Viewing last commits via git log (can see all of the commits I have made previously and their messages)
+22. Checking the remote url that we are using to make sure it is correct (it is)
